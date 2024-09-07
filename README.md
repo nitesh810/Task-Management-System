@@ -1,7 +1,5 @@
 # Task-Management-System
 
-# Task Management System
-
 ## Overview
 
 The **Task Management System** is a Python-based application that allows users to efficiently manage tasks. The system supports creating, editing, deleting, and marking tasks as completed. It also provides functionality to save and load tasks from a JSON file for persistence.
